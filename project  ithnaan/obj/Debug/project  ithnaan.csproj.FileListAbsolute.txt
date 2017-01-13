@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\project  ithnaan\project  ithnaan\bin\Debug\project  ithnaan.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\project  ithnaan\project  ithnaan\bin\Debug\project  ithnaan.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\project  ithnaan\project  ithnaan\bin\Debug\project  ithnaan.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\project  ithnaan\project  ithnaan\obj\Debug\project  ithnaan.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\project  ithnaan\project  ithnaan\obj\Debug\project  ithnaan.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\project  ithnaan\project  ithnaan\obj\Debug\project  ithnaan.pdb
